@@ -8,8 +8,7 @@
 
 <br>
 
-<!-- Streak Stats Card -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&ring=FFA500&fire=FFA500&currStreakNum=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&ring=8A2BE2&fire=8A2BE2&currStreakNum=8A2BE2&currStreakLabel=8A2BE2&start=2026-01-01)](https://git.io/streak-stats)
 
 <br><br>
 
