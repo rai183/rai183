@@ -13,17 +13,6 @@
 
 <br><br>
 
-### 🔥 About Me
-
-💙 Hi! I'm **Rai**
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true)](https://git.io/streak-stats)
-
-</div>
 
 
 ## 🔥 About Me
