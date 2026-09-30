@@ -19,9 +19,9 @@
 
 ## 🔥 About Me
 
-- 💙 Hi! I'm **[Rai]**
+- 💙 Hi! I'm **Rai**
 - 🌱 Learning new things
 - 💻 Currently learning **HTML** and **Python**
-- 🎯 Goal: Become **Talented and so skilled, that results speak for me**
+- 🎯 Goal: Become **Better than last time.**
 - 💙 I love **photography, music, food**
 - 📫 Email: raizereganac@gmail.com
