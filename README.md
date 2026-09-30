@@ -8,7 +8,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&ring=415A77&fire=415A77&currStreakNum=FFFFFF&currStreakLabel=415A77&start=2025-01-01)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&border_color=161b22&title_color=415A77&icon_color=415A77&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
