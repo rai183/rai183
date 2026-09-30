@@ -1,9 +1,4 @@
-<div align="center">
-<div align="center">
 
-# RAI_ERROR_NOT_FOUND.
-
-<br>
 <div align="center">
 
 <!-- Typing Text Header -->
