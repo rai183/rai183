@@ -4,7 +4,25 @@
 # RAI_ERROR_NOT_FOUND.
 
 <br>
+<div align="center">
 
+<!-- Typing Text Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=RAI_ERROR_NOT_FOUND." alt="Typing SVG" />
+</a>
+
+<br>
+
+<!-- Streak Stats Card -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&ring=FFA500&fire=FFA500&currStreakNum=FFA500)](https://git.io/streak-stats)
+
+<br><br>
+
+### 🔥 About Me
+
+💙 Hi! I'm **Rai**
+
+</div>
 
 <div align="center">
 
