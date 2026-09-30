@@ -8,8 +8,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&start=2025-01-01)](https://git.io/streak-stats)
-<br><br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&border=161b22&hide_border=true&ring=001F3F&fire=001F3F&currStreakNum=001F3F&currStreakLabel=001F3F&start=2025-01-01)](https://git.io/streak-stats)
 
 
 
