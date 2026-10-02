@@ -20,7 +20,7 @@
 ## 🔥 About Me
 
 - 💙 Hi! I'm **Rai**
-- 🌱 Learning new things
+- 🌱 Likes Learning new things
 - 💻 Currently learning **HTML** and **Python**
 - 🎯 Goal: Become **Better than last time.**
 - 💙 I love **photography, music, food**
